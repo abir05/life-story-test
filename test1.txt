@@ -3,5 +3,9 @@ Dont waste it for anything silly.
 I have completed my HSC in sometimes before 2020.
 Adding another line sounds fun!!
 look!! Heres another line!!
+<<<<<<< HEAD
 NEW LINE HAS BEEN ADDED BY ME!!
 bla bla bla
+=======
+Added number 6 line!
+>>>>>>> f2844720ea2c5982ae1b7838226dabad8538a3ed
